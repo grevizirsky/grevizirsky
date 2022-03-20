@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Adriano Grevizirsky
 
-- 🔭 Atualmente estou trabalhando como analista de sistemas Jr.
-- 🌱 Estudando Swift
+- 🌱 Estudando HTML, CSS, JavaScript
 - 😄 Pronouns: ele/dele
 
  <div>
