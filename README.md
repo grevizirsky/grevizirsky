@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adriano Grevizirsky
 
-- 🌱 Estudando HTML, CSS, JavaScript
+- 🌱 Estudando React
 - 😄 Pronouns: ele/dele
 
  <div>
