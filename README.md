@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adriano Grevizirsky
 
-- 🌱 No momento estou estudando React e Python
+- 🌱 No momento estou estudando .Net
 - 🎓 Estudante de Engenharia da Computação e formado em Gestão de TI e em Jogos Digitais
 - 😄 Pronouns: ele/dele
 
